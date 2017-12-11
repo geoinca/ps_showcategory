@@ -1,0 +1,21 @@
+/*Estilos Ultimos proyectos*/
+
+.home_categories {
+    background: #424141;
+    color: #fff;
+}
+
+.home_categories a {
+    display: block;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+        .img.categoryImage {
+    transition: all .3s ease;
+    min-width: 100%;
+}
+
+.home_categories a:hover img {
+    transform: scale(1.5);
+}

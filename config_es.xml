@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_showcategory</name>
+    <displayName><![CDATA[Mostrar las Categor&iacute;as de Prestashop]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Mostrar las Categor&iacute;as de Prestashop en P&aacute;gina principal]]></description>
+    <author><![CDATA[&quot;@geo_inca&quot;]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[¿Está seguro, Quiere desinstalar?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
